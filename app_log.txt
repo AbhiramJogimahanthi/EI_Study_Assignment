@@ -1,0 +1,10 @@
+[2023-11-20 21:18:36] To-Do List Manager
+[2023-11-20 21:19:02] Task added: Task1
+[2023-11-20 21:19:02] Task not found: 01
+[2023-11-20 21:19:34] Task deleted: Task1
+[2023-11-20 21:20:39] To-Do List Manager
+[2023-11-20 21:20:52] Task added: Task1
+[2023-11-20 21:20:52] Task not found: 01
+[2023-11-20 21:21:38] Task marked as completed: Task1
+[2023-11-20 21:22:10] Task not found: Task2
+[2023-11-20 21:22:34] Task deleted: Task1
